@@ -20,7 +20,7 @@ channel = 0  # Channel ID (ex. -1001487568087)
 
 # Discord Settings
 send_discord_alerts = False
-discord_webhook = ""  # Discord Webhook URL (https://support.discordapp.com/hc/de/articles/228383668-Webhooks-verwenden)
+discord_webhook = "https://discord.com/api/webhooks/1103405414097371236/KIpb4_Qvkj33F9B2yDZH2uZKGV9pSXPkhf80aTqNbyf_G-rtLrs1c35WA8aokGTB5Y7T"  # Discord Webhook URL (https://support.discordapp.com/hc/de/articles/228383668-Webhooks-verwenden)
 
 # Slack Settings
 send_slack_alerts = False
